@@ -1,0 +1,19 @@
+{
+  "name": "can-you-find-who-i-am",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamdiazer8/can-you-find-who-I-am.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamdiazer8/can-you-find-who-I-am/issues"
+  },
+  "homepage": "https://github.com/hamdiazer8/can-you-find-who-I-am#readme"
+}
